@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.qintess.evento.entidades.Evento"/>
+<fullyQualifiedTypeName name="com.qintess.evento.entidades.Ingresso"/>
+<fullyQualifiedTypeName name="com.qintess.evento.dados.LocalShowRepos"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="com.qintess.evento.entidades.LocalShow"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+<fullyQualifiedTypeName name="com.qintess.evento.dados.UsuarioRepos"/>
+<fullyQualifiedTypeName name="com.qintess.evento.entidades.Usuario"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.qintess.evento.dados.PedidoRepos"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.qintess.evento.entidades.Pedido"/>
+</qualifiedTypeNameHistroy>
