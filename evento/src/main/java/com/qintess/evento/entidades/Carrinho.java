@@ -10,7 +10,7 @@ import javax.persistence.Id;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-@Entity
+@Entity(name = "carrinho")
 public class Carrinho {
 	
 	@Id

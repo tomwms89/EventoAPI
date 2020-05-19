@@ -11,7 +11,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 
-@Entity
+@Entity(name = "item_carrinho")
 public class ItemCarrinho {
 	
 	@Id
