@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.qintess.evento.dados.EventoRepos;
+import com.qintess.evento.dados.LocalShowRepos;
 import com.qintess.evento.entidades.Evento;
 
 @RestController
@@ -24,6 +25,9 @@ public class EventoController {
 	
 	@Autowired
 	private EventoRepos eventoRepos;
+	
+	@Autowired
+	private LocalShowRepos localShowRepos;
 	
 	@GetMapping("/evento")
 	public List<Evento> getEvento() {
